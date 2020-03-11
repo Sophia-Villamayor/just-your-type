@@ -1,18 +1,18 @@
 h1 {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
   background-color: #ffc0cb;
   margin: 4rem 2rem 0;
 }
 
 p {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   text-align: center;
   background-color: #ffe4e1;
   margin: 1rem 2rem;
 }
 
 span {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
   background-color: #ffe4e1;
 }
 
