@@ -55,6 +55,10 @@ span {
 
 @media only screen and (min-width: 60em) {
 
+  h1 {
+    background-color: #ffe4e1;
+  }
+
   .you {
     margin-right: 5rem;
   }
@@ -65,7 +69,12 @@ span {
 
   p {
     text-align: center;
+    background-color: #ffc0cb;
     margin: 1rem 1rem 0 0;
+  }
+
+  span {
+    background-color: #ffc0cb;
   }
 
   hr {
