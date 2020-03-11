@@ -91,6 +91,7 @@ span {
 @media only screen and (min-width: 90em) {
 
   h1 {
+    background-color: #ffc0cb;
     margin: 0;
   }
 
@@ -103,8 +104,13 @@ span {
   }
 
   p {
+    background-color: #ffe4e1;
     text-align: center;
     margin: 1rem 8rem 0 0;
+  }
+
+  span {
+    background-color: #ffe4e1;
   }
 
   hr {
