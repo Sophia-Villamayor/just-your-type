@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+  display: block;
   font-family: Judson, serif;
   background-color: #ffc0cb;
   margin: 4rem 2rem 0;
@@ -112,17 +113,17 @@ span {
   }
 
   .you {
-    margin-right: 13rem;
+    margin-right: 9rem;
   }
 
   .sun {
-    margin-right: 13rem;
+    margin-right: 9rem;
   }
 
   p {
     background-color: #ffc0cb;
     text-align: center;
-    margin: 1rem 8rem 0 0;
+    margin: 1rem 6rem 0 0;
   }
 
   span {
